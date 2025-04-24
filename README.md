@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nzaumuimi" alt="nzaumuimi" /></a> </p>
 
-- 🔭 I’m currently learning **React.js, Vue.js**
+- 🔭 I’m currently learning **AI integrations and improving prompt engineering for chat-based applications**
 
-- 🌱 I’m currently learning **Node.js, Express.js, Python (Flask, Django)**
+- 🌱 I’m currently learning **Node.js, React.js,**
 
-- 👯 I’m looking to collaborate on **MongoDB, MySQL**
+- 👯 I’m looking to collaborate on **Python (Flask, Django), MongoDB, MySQL**
 
 - 🤝 I’m looking for help with **RESTful APIs Devops**
 
