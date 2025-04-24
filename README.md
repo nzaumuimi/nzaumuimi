@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nzau Muimi</h1>
-<h3 align="center">A passionate full-stack developer from Kenya</h3>
+<h3 align="center">A passionate front-end and back-end web developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nzaumuimi&label=Profile%20views&color=0e75b6&style=flat" alt="nzaumuimi" /> </p>
 
